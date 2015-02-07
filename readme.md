@@ -11,6 +11,15 @@ _Database_ **tutorial.db** looks like this
  
 <table >
 <tr>
+<td>ID</td>
+<td>unix </td>
+<td>datestamp</td>
+<td>keyword</td>
+<td>value</td>
+</tr>
+<tr>
+
+<tr>
 <td>1</td>
 <td>65952181.288 </td>
 <td>2013-04-14</td>
